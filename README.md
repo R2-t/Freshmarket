@@ -92,7 +92,7 @@ python main.py
 |---------|--------|-------------|
 | `analysis` | ✅ Activo | Genera reportes CSV y visualizaciones de ventas |
 | `database` | ✅ Activo | Migra datos a SQLite con estructura normalizada |
-| `ui` | 🚧 Próximamente | Interfaz de usuario interactiva |
+| `ui` | ✅ Activo | Aplicación de escritorio para gestión de pedidos |
 
 #### 📊 Comando `analysis`
 
