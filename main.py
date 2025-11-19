@@ -1,7 +1,9 @@
 import sys
+from tokenize import STAR
 
 from analysis import orchestrate_analysis
 from database import orchestrate_database_migration
+from tinker import start_ui
 
 if __name__ == "__main__":
     args = set(sys.argv)
@@ -15,6 +17,6 @@ if __name__ == "__main__":
     elif "database" in args:
         orchestrate_database_migration()
     elif "ui" in args:
-        pass
+        start_ui()
     else:
         print("invalid command")
