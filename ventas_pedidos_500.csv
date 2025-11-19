@@ -1,0 +1,501 @@
+id_venta,fecha,ciudad,producto,cantidad,precio_unitario,cliente_id,tiempo_entrega_dias,estado_entrega,stock_inicial_producto,stock_final_producto
+1,2023-01-14,Bucaramanga,Verduras Orgánicas,7,20937.97,C1364,1,Entregado,16,9
+2,2023-01-03,Bogotá,Pan Vegano,7,20350.32,C6870,1,Retrasado,47,40
+3,2023-04-25,Manizales,Leche Vegetal,9,27122.16,C9905,3,Retrasado,95,86
+4,2023-05-06,Manizales,Verduras Orgánicas,9,31715.82,C7168,4,Retrasado,27,18
+5,2023-04-21,Bogotá,Crema Corporal,4,21113.2,C8943,3,Entregado,51,47
+6,2023-06-18,Barranquilla,Snacks Saludables,5,15892.47,C6401,4,Entregado,68,63
+7,2023-04-19,Bogotá,Leche Vegetal,6,23173.24,C2460,1,Entregado,13,7
+8,2023-04-04,Medellín,Jabón Natural,8,31902.96,C9434,1,Entregado,33,25
+9,2023-01-06,Bucaramanga,Crema Corporal,2,22279.95,C9195,1,Cancelado,60,58
+10,2023-03-03,Manizales,Verduras Orgánicas,9,26553.72,C7316,5,Entregado,77,68
+11,2023-01-19,Manizales,Crema Corporal,4,20228.31,C5208,3,Retrasado,23,19
+12,2023-03-05,Barranquilla,Verduras Orgánicas,6,22437.15,C5234,6,Entregado,12,6
+13,2023-06-10,Bucaramanga,Crema Corporal,6,15098.13,C1009,3,Entregado,11,5
+14,2023-01-13,Tunja,Crema Corporal,8,29296.23,C9512,1,Entregado,18,10
+15,2023-05-23,Pereira,Canasta Saludable,8,23183.06,C4490,2,Cancelado,71,63
+16,2023-06-27,Medellín,Pan Vegano,5,26926.02,C6256,2,Entregado,10,5
+17,2023-02-09,Cali,Crema Corporal,6,6442.84,C6468,1,Retrasado,23,17
+18,2023-03-01,Cali,Snacks Saludables,3,9927.97,C3898,4,Entregado,13,10
+19,2023-03-30,Barranquilla,Granola,9,25489.46,C7943,3,Entregado,32,23
+20,2023-03-04,Manizales,Snacks Saludables,1,11966.38,C2248,2,Entregado,62,61
+21,2023-04-14,Bogotá,Frutas Orgánicas,8,23727.14,C2970,3,Entregado,60,52
+22,2023-02-11,Bogotá,Snacks Saludables,4,28820.76,C6788,3,Retrasado,36,32
+23,2023-06-13,Cartagena,Verduras Orgánicas,6,27572.09,C1950,1,Entregado,75,69
+24,2023-01-10,Tunja,Frutas Orgánicas,5,31302.97,C7028,1,Retrasado,97,92
+25,2023-06-29,Cartagena,Canasta Saludable,8,20068.65,C4719,1,Entregado,85,77
+26,2023-06-22,Medellín,Leche Vegetal,2,5366.09,C3674,4,Entregado,52,50
+27,2023-01-27,Cali,Leche Vegetal,5,29803.96,C7166,3,Cancelado,21,16
+28,2023-05-21,Bucaramanga,Verduras Orgánicas,8,20176.66,C1984,2,Retrasado,52,44
+29,2023-04-10,Medellín,Canasta Saludable,4,28702.54,C4876,4,Entregado,40,36
+30,2023-05-02,Barranquilla,Snacks Saludables,9,17723.92,C8196,1,Retrasado,20,11
+31,2023-05-31,Manizales,Verduras Orgánicas,1,8397.14,C4476,2,Entregado,96,95
+32,2023-02-26,Cali,Verduras Orgánicas,1,31096.89,C5662,2,Entregado,56,55
+33,2023-02-22,Villavicencio,Canasta Saludable,9,11167.39,C7456,1,Entregado,72,63
+34,2023-01-25,Bogotá,Pan Vegano,6,15390.38,C9666,4,Entregado,52,46
+35,2023-04-18,Villavicencio,Leche Vegetal,3,12446.79,C2990,2,Entregado,42,39
+36,2023-06-26,Manizales,Pan Vegano,6,11602.92,C6588,3,Cancelado,58,52
+37,2023-05-28,Bucaramanga,Jabón Natural,6,30818.96,C6182,7,Entregado,10,4
+38,2023-05-21,Villavicencio,Granola,7,17803.67,C1951,6,Entregado,38,31
+39,2023-02-18,Pereira,Frutas Orgánicas,8,22623.61,C1768,5,Entregado,75,67
+40,2023-04-23,Cali,Shampoo Sólido,2,19910.36,C5926,1,Entregado,64,62
+41,2023-04-13,Bucaramanga,Crema Corporal,3,16199.28,C2481,6,Entregado,96,93
+42,2023-02-24,Cartagena,Frutas Orgánicas,2,31009.81,C1832,3,Entregado,96,94
+43,2023-03-13,Medellín,Crema Corporal,6,15178.14,C4300,2,Entregado,17,11
+44,2023-06-11,Cali,Granola,3,12295.17,C3538,7,Cancelado,63,60
+45,2023-05-22,Villavicencio,Jabón Natural,7,31890.07,C7150,4,Retrasado,94,87
+46,2023-05-27,Bogotá,Leche Vegetal,3,22491.25,C5177,6,Retrasado,29,26
+47,2023-01-11,Cali,Frutas Orgánicas,2,15891.78,C5491,5,Entregado,18,16
+48,2023-02-22,Cali,Verduras Orgánicas,3,33453.6,C2387,1,Retrasado,68,65
+49,2023-05-08,Tunja,Pan Vegano,1,19543.35,C3573,4,Entregado,34,33
+50,2023-04-13,Cali,Leche Vegetal,9,9180.68,C3541,7,Entregado,96,87
+51,2023-02-06,Cartagena,Jabón Natural,6,32428.96,C6475,3,Entregado,46,40
+52,2023-06-02,Pereira,Pan Vegano,6,29892.25,C2622,1,Entregado,36,30
+53,2023-02-26,Manizales,Canasta Saludable,6,26965.54,C9801,4,Entregado,80,74
+54,2023-05-18,Pereira,Granola,1,17563.12,C8643,5,Entregado,11,10
+55,2023-02-23,Bucaramanga,Jabón Natural,1,7483.96,C6490,2,Entregado,49,48
+56,2023-01-11,Bogotá,Snacks Saludables,4,26571.38,C2333,3,Entregado,31,27
+57,2023-03-10,Cali,Canasta Saludable,8,11448.21,C8715,3,Entregado,90,82
+58,2023-04-19,Pereira,Verduras Orgánicas,2,23699.98,C8617,1,Entregado,26,24
+59,2023-05-09,Bucaramanga,Shampoo Sólido,9,26147.77,C2639,3,Entregado,12,3
+60,2023-04-18,Cartagena,Verduras Orgánicas,3,13164.35,C8009,1,Entregado,68,65
+61,2023-02-18,Cali,Canasta Saludable,1,33507.12,C8982,1,Cancelado,92,91
+62,2023-01-08,Tunja,Frutas Orgánicas,5,27771.08,C6604,4,Retrasado,34,29
+63,2023-03-30,Bucaramanga,Granola,9,33321.78,C9238,1,Entregado,26,17
+64,2023-05-31,Tunja,Frutas Orgánicas,5,19196.3,C1390,1,Entregado,18,13
+65,2023-04-25,Pereira,Pan Vegano,8,34131.75,C2500,3,Retrasado,48,40
+66,2023-05-26,Bogotá,Snacks Saludables,7,6110.23,C4223,2,Entregado,12,5
+67,2023-02-06,Manizales,Granola,8,18230.96,C8126,1,Entregado,13,5
+68,2023-04-03,Villavicencio,Jabón Natural,6,14562.58,C9684,4,Entregado,64,58
+69,2023-06-19,Cartagena,Crema Corporal,2,5638.08,C4810,1,Entregado,38,36
+70,2023-03-03,Medellín,Jabón Natural,5,19393.44,C1271,6,Cancelado,19,14
+71,2023-06-07,Medellín,Frutas Orgánicas,9,15091.11,C5435,4,Entregado,12,3
+72,2023-06-22,Bogotá,Leche Vegetal,8,13617.17,C7467,4,Entregado,57,49
+73,2023-03-14,Manizales,Pan Vegano,1,16748.9,C2828,5,Entregado,79,78
+74,2023-02-08,Barranquilla,Shampoo Sólido,8,31525.97,C9202,6,Cancelado,80,72
+75,2023-02-21,Bogotá,Crema Corporal,4,11950.15,C8827,5,Entregado,83,79
+76,2023-04-17,Cali,Shampoo Sólido,2,16522.72,C1936,2,Retrasado,15,13
+77,2023-01-05,Bogotá,Shampoo Sólido,5,23893.34,C1726,6,Cancelado,70,65
+78,2023-05-03,Bucaramanga,Verduras Orgánicas,3,27747.15,C8312,2,Retrasado,22,19
+79,2023-04-30,Villavicencio,Crema Corporal,9,22788.2,C2933,6,Entregado,65,56
+80,2023-03-08,Tunja,Canasta Saludable,9,6331.3,C7881,6,Retrasado,49,40
+81,2023-01-25,Bogotá,Granola,5,27056.38,C8291,2,Entregado,14,9
+82,2023-06-25,Medellín,Pan Vegano,2,7431.39,C4020,6,Cancelado,49,47
+83,2023-02-14,Cartagena,Frutas Orgánicas,3,29740.43,C2591,4,Entregado,86,83
+84,2023-02-02,Bucaramanga,Verduras Orgánicas,6,20637.81,C3383,4,Retrasado,68,62
+85,2023-02-17,Barranquilla,Leche Vegetal,9,15020.27,C3604,4,Entregado,72,63
+86,2023-06-04,Bogotá,Frutas Orgánicas,6,10676.65,C1556,6,Entregado,32,26
+87,2023-06-19,Manizales,Verduras Orgánicas,5,27305.25,C4998,1,Entregado,86,81
+88,2023-01-12,Manizales,Canasta Saludable,7,10793.99,C2136,3,Entregado,69,62
+89,2023-03-29,Bucaramanga,Snacks Saludables,3,8853.46,C6352,7,Entregado,69,66
+90,2023-03-20,Pereira,Shampoo Sólido,5,8075.29,C8059,4,Entregado,73,68
+91,2023-01-17,Barranquilla,Canasta Saludable,6,26257.16,C3752,1,Entregado,91,85
+92,2023-02-19,Barranquilla,Verduras Orgánicas,4,24427.21,C6043,5,Entregado,20,16
+93,2023-02-02,Cartagena,Jabón Natural,6,16155.01,C4356,6,Entregado,48,42
+94,2023-01-15,Pereira,Verduras Orgánicas,7,29777.62,C2098,2,Entregado,87,80
+95,2023-03-25,Bogotá,Crema Corporal,6,8940.05,C4778,7,Entregado,30,24
+96,2023-02-16,Cali,Snacks Saludables,5,24155.78,C2682,2,Cancelado,10,5
+97,2023-02-27,Pereira,Leche Vegetal,6,11898.64,C2980,2,Retrasado,33,27
+98,2023-01-12,Villavicencio,Crema Corporal,2,30930.75,C3255,3,Entregado,98,96
+99,2023-05-25,Bucaramanga,Crema Corporal,5,9609.74,C2050,5,Retrasado,12,7
+100,2023-04-03,Bucaramanga,Frutas Orgánicas,5,32355.08,C5473,4,Retrasado,34,29
+101,2023-01-17,Pereira,Crema Corporal,4,17909.18,C6797,2,Entregado,95,91
+102,2023-04-27,Cartagena,Snacks Saludables,2,28926.77,C9586,7,Entregado,30,28
+103,2023-01-18,Cartagena,Jabón Natural,2,19398.17,C9357,2,Entregado,42,40
+104,2023-04-12,Bogotá,Leche Vegetal,9,6188.56,C1213,4,Entregado,85,76
+105,2023-05-01,Medellín,Snacks Saludables,6,23544.67,C3720,3,Entregado,11,5
+106,2023-02-02,Pereira,Shampoo Sólido,9,15518.81,C7732,1,Entregado,75,66
+107,2023-06-15,Cali,Granola,7,11025.77,C4041,1,Entregado,84,77
+108,2023-03-02,Villavicencio,Jabón Natural,3,31886.64,C3056,6,Entregado,41,38
+109,2023-02-10,Cali,Frutas Orgánicas,2,33056.05,C4911,4,Retrasado,71,69
+110,2023-04-21,Bogotá,Shampoo Sólido,7,24824.6,C1207,3,Retrasado,35,28
+111,2023-05-07,Barranquilla,Frutas Orgánicas,3,6222.62,C8867,4,Entregado,21,18
+112,2023-03-28,Villavicencio,Pan Vegano,9,31153.51,C4638,3,Retrasado,62,53
+113,2023-02-01,Cartagena,Leche Vegetal,3,9850.18,C8057,4,Entregado,65,62
+114,2023-04-15,Cartagena,Frutas Orgánicas,3,7445.79,C9946,4,Entregado,72,69
+115,2023-04-07,Tunja,Granola,7,18878.69,C8005,7,Entregado,33,26
+116,2023-05-28,Tunja,Pan Vegano,5,15378.05,C4453,7,Entregado,58,53
+117,2023-06-28,Barranquilla,Crema Corporal,9,18158.46,C6631,4,Entregado,45,36
+118,2023-01-06,Cartagena,Canasta Saludable,7,13304.83,C2394,2,Entregado,12,5
+119,2023-01-18,Manizales,Shampoo Sólido,8,30079.94,C8904,1,Retrasado,96,88
+120,2023-02-11,Cali,Pan Vegano,2,10429.31,C5648,2,Retrasado,23,21
+121,2023-03-25,Tunja,Granola,2,7857.85,C4216,2,Cancelado,75,73
+122,2023-06-12,Barranquilla,Canasta Saludable,5,5270.91,C6543,3,Entregado,32,27
+123,2023-02-16,Tunja,Granola,3,18260.73,C6724,2,Retrasado,10,7
+124,2023-05-13,Bucaramanga,Pan Vegano,4,22636.53,C8115,4,Entregado,93,89
+125,2023-01-28,Pereira,Jabón Natural,9,23166.14,C3734,4,Entregado,53,44
+126,2023-02-25,Cartagena,Frutas Orgánicas,6,11175.24,C1956,1,Cancelado,82,76
+127,2023-02-06,Pereira,Crema Corporal,4,6550.91,C7262,2,Entregado,68,64
+128,2023-03-10,Tunja,Canasta Saludable,1,20217.04,C2229,4,Entregado,97,96
+129,2023-02-12,Villavicencio,Granola,2,14693.92,C6342,2,Entregado,32,30
+130,2023-06-21,Tunja,Granola,6,9189.54,C7527,1,Entregado,59,53
+131,2023-05-04,Pereira,Crema Corporal,7,9871.46,C9320,4,Entregado,14,7
+132,2023-03-27,Cali,Leche Vegetal,2,24848.97,C6238,6,Entregado,91,89
+133,2023-05-25,Tunja,Snacks Saludables,8,30938.27,C1986,6,Entregado,42,34
+134,2023-01-01,Manizales,Shampoo Sólido,3,33226.26,C4124,4,Entregado,71,68
+135,2023-03-04,Manizales,Canasta Saludable,9,30993.16,C6208,6,Retrasado,86,77
+136,2023-06-08,Cali,Shampoo Sólido,9,8273.29,C4173,2,Entregado,79,70
+137,2023-03-23,Tunja,Verduras Orgánicas,9,14515.87,C2388,5,Entregado,63,54
+138,2023-03-30,Pereira,Shampoo Sólido,5,14737.57,C5806,3,Entregado,98,93
+139,2023-06-10,Tunja,Granola,1,21370.61,C7059,1,Entregado,81,80
+140,2023-04-20,Pereira,Jabón Natural,2,18904.82,C7228,6,Entregado,79,77
+141,2023-06-05,Tunja,Leche Vegetal,5,29412.99,C5760,2,Entregado,46,41
+142,2023-02-13,Cali,Frutas Orgánicas,4,23237.15,C6445,4,Retrasado,52,48
+143,2023-01-21,Manizales,Crema Corporal,7,17925.86,C5431,4,Retrasado,34,27
+144,2023-02-05,Barranquilla,Granola,3,6808.02,C1140,2,Entregado,77,74
+145,2023-04-27,Pereira,Granola,4,25102.88,C7894,3,Entregado,45,41
+146,2023-06-07,Bucaramanga,Jabón Natural,2,16997.16,C7787,5,Entregado,16,14
+147,2023-04-05,Barranquilla,Frutas Orgánicas,7,20754.9,C4654,2,Retrasado,70,63
+148,2023-02-11,Bogotá,Shampoo Sólido,8,33887.81,C2798,5,Entregado,54,46
+149,2023-04-16,Tunja,Snacks Saludables,7,24139.56,C2300,6,Entregado,18,11
+150,2023-01-15,Cali,Shampoo Sólido,8,17330.85,C7295,2,Entregado,46,38
+151,2023-03-09,Villavicencio,Granola,2,26958.74,C4683,3,Entregado,27,25
+152,2023-05-27,Barranquilla,Frutas Orgánicas,4,9491.12,C1482,6,Entregado,30,26
+153,2023-05-30,Tunja,Leche Vegetal,5,24259.15,C1987,2,Entregado,82,77
+154,2023-03-19,Manizales,Granola,9,19903.01,C1769,2,Entregado,27,18
+155,2023-03-08,Barranquilla,Shampoo Sólido,6,18373.73,C7602,7,Entregado,28,22
+156,2023-03-09,Villavicencio,Shampoo Sólido,6,22351.61,C7764,1,Entregado,45,39
+157,2023-05-11,Barranquilla,Canasta Saludable,9,14701.15,C6189,2,Entregado,58,49
+158,2023-03-01,Medellín,Verduras Orgánicas,2,25088.08,C3475,2,Entregado,81,79
+159,2023-02-19,Bogotá,Snacks Saludables,3,20988.73,C3428,3,Entregado,11,8
+160,2023-06-21,Bucaramanga,Canasta Saludable,2,15888.33,C4874,4,Entregado,17,15
+161,2023-05-30,Bogotá,Snacks Saludables,4,33849.97,C4374,2,Entregado,71,67
+162,2023-06-07,Villavicencio,Canasta Saludable,9,29654.19,C4083,2,Entregado,93,84
+163,2023-01-03,Medellín,Frutas Orgánicas,7,16979.48,C7099,6,Entregado,39,32
+164,2023-05-29,Tunja,Frutas Orgánicas,4,23707.57,C8121,5,Retrasado,25,21
+165,2023-02-07,Manizales,Canasta Saludable,4,26262.34,C4725,1,Entregado,75,71
+166,2023-04-15,Pereira,Pan Vegano,5,15389.65,C3496,2,Entregado,32,27
+167,2023-06-03,Barranquilla,Pan Vegano,4,31200.1,C9453,6,Entregado,95,91
+168,2023-03-01,Bucaramanga,Leche Vegetal,5,16731.28,C5107,6,Entregado,91,86
+169,2023-06-22,Cali,Crema Corporal,3,25229.11,C8629,5,Retrasado,61,58
+170,2023-01-14,Barranquilla,Leche Vegetal,9,14675.84,C8842,2,Entregado,91,82
+171,2023-01-20,Bogotá,Shampoo Sólido,2,24229.16,C6656,3,Entregado,42,40
+172,2023-06-13,Bucaramanga,Verduras Orgánicas,1,23187.59,C5917,5,Entregado,50,49
+173,2023-05-14,Bogotá,Frutas Orgánicas,9,24989.21,C3529,1,Entregado,34,25
+174,2023-03-20,Manizales,Crema Corporal,4,7398.96,C8179,7,Entregado,22,18
+175,2023-01-31,Villavicencio,Jabón Natural,4,18185.35,C6947,6,Entregado,52,48
+176,2023-05-10,Cali,Jabón Natural,7,9560.75,C8154,3,Entregado,98,91
+177,2023-05-10,Bogotá,Verduras Orgánicas,2,6733.42,C6175,2,Entregado,18,16
+178,2023-04-09,Barranquilla,Canasta Saludable,5,8641.55,C7406,4,Entregado,13,8
+179,2023-01-04,Cali,Leche Vegetal,7,11866.84,C2382,2,Entregado,45,38
+180,2023-05-04,Pereira,Crema Corporal,6,17782.5,C8870,3,Entregado,16,10
+181,2023-06-04,Barranquilla,Jabón Natural,6,29826.14,C7140,5,Entregado,11,5
+182,2023-03-03,Cali,Jabón Natural,5,5575.77,C8758,3,Entregado,48,43
+183,2023-05-13,Barranquilla,Frutas Orgánicas,1,14705.01,C9433,4,Entregado,54,53
+184,2023-06-09,Cali,Jabón Natural,4,16142.26,C5592,3,Entregado,61,57
+185,2023-04-27,Villavicencio,Jabón Natural,4,30939.81,C5719,4,Entregado,61,57
+186,2023-06-06,Villavicencio,Shampoo Sólido,6,16771.81,C3672,7,Retrasado,18,12
+187,2023-06-18,Medellín,Snacks Saludables,1,29266.5,C4631,2,Retrasado,67,66
+188,2023-01-21,Cartagena,Crema Corporal,7,24780.62,C7869,4,Entregado,69,62
+189,2023-03-28,Cartagena,Verduras Orgánicas,8,31473.78,C8083,3,Entregado,86,78
+190,2023-03-28,Bogotá,Snacks Saludables,1,7162.53,C9599,1,Entregado,29,28
+191,2023-01-21,Barranquilla,Verduras Orgánicas,8,15597.54,C1365,7,Cancelado,92,84
+192,2023-05-15,Pereira,Pan Vegano,3,10555.87,C9964,4,Retrasado,73,70
+193,2023-05-18,Bogotá,Crema Corporal,6,7478.53,C7511,7,Entregado,34,28
+194,2023-03-14,Medellín,Leche Vegetal,2,25020.51,C2827,4,Retrasado,50,48
+195,2023-05-02,Cartagena,Canasta Saludable,7,6258.54,C9561,2,Entregado,11,4
+196,2023-04-28,Villavicencio,Shampoo Sólido,5,32608.92,C4983,5,Entregado,20,15
+197,2023-01-10,Tunja,Verduras Orgánicas,1,32842.51,C6784,2,Entregado,98,97
+198,2023-04-24,Manizales,Granola,6,13213.74,C1685,1,Cancelado,41,35
+199,2023-04-29,Villavicencio,Verduras Orgánicas,7,30395.43,C2256,3,Entregado,30,23
+200,2023-05-06,Bogotá,Shampoo Sólido,8,27445.76,C7381,5,Entregado,84,76
+201,2023-03-27,Medellín,Verduras Orgánicas,6,34540.09,C8003,1,Entregado,38,32
+202,2023-06-29,Cali,Leche Vegetal,2,11405.34,C5082,2,Entregado,31,29
+203,2023-06-20,Medellín,Snacks Saludables,5,22710.43,C9706,2,Entregado,38,33
+204,2023-01-30,Manizales,Verduras Orgánicas,7,22315.18,C8295,3,Entregado,67,60
+205,2023-05-24,Medellín,Leche Vegetal,8,12400.37,C1514,7,Entregado,73,65
+206,2023-04-16,Cartagena,Crema Corporal,2,11121.07,C4081,4,Retrasado,36,34
+207,2023-03-07,Bogotá,Crema Corporal,9,16257.8,C3547,3,Retrasado,67,58
+208,2023-02-23,Pereira,Frutas Orgánicas,1,5330.95,C4489,5,Entregado,25,24
+209,2023-03-11,Barranquilla,Frutas Orgánicas,8,20061.51,C1697,2,Entregado,29,21
+210,2023-05-18,Medellín,Shampoo Sólido,8,11516.27,C8321,2,Entregado,30,22
+211,2023-02-07,Cartagena,Crema Corporal,4,10439.58,C6036,1,Entregado,13,9
+212,2023-01-14,Manizales,Jabón Natural,3,6945.61,C5431,2,Retrasado,33,30
+213,2023-06-11,Villavicencio,Granola,2,23064.37,C4390,1,Entregado,85,83
+214,2023-01-30,Tunja,Verduras Orgánicas,6,11295.26,C1867,3,Entregado,64,58
+215,2023-04-23,Pereira,Granola,7,12075.73,C1830,2,Entregado,56,49
+216,2023-02-26,Medellín,Shampoo Sólido,6,24276.96,C2283,3,Entregado,24,18
+217,2023-02-16,Tunja,Verduras Orgánicas,7,22156.17,C4471,2,Entregado,19,12
+218,2023-02-19,Manizales,Verduras Orgánicas,3,5785.9,C7397,3,Entregado,60,57
+219,2023-05-27,Manizales,Frutas Orgánicas,3,17889.7,C8999,2,Retrasado,83,80
+220,2023-01-05,Cali,Jabón Natural,4,9004.4,C4331,1,Cancelado,44,40
+221,2023-05-09,Bucaramanga,Shampoo Sólido,8,26885.25,C1685,4,Entregado,40,32
+222,2023-03-25,Tunja,Snacks Saludables,8,19161.81,C7868,1,Entregado,39,31
+223,2023-03-27,Cartagena,Leche Vegetal,7,12409.36,C4291,5,Cancelado,25,18
+224,2023-04-16,Manizales,Jabón Natural,9,28301.32,C6675,2,Retrasado,93,84
+225,2023-03-23,Cartagena,Crema Corporal,9,15377.61,C1689,3,Entregado,24,15
+226,2023-06-09,Pereira,Leche Vegetal,8,21449.62,C6591,3,Cancelado,51,43
+227,2023-06-03,Cali,Jabón Natural,8,12804.73,C6432,3,Cancelado,78,70
+228,2023-05-11,Cali,Verduras Orgánicas,7,10942.93,C2938,2,Cancelado,21,14
+229,2023-06-18,Barranquilla,Crema Corporal,1,9537.4,C8875,3,Entregado,95,94
+230,2023-02-02,Cartagena,Crema Corporal,1,34415.5,C1572,6,Retrasado,50,49
+231,2023-06-16,Cartagena,Crema Corporal,6,21465.16,C2633,1,Entregado,74,68
+232,2023-03-15,Barranquilla,Snacks Saludables,5,9228.79,C4137,1,Retrasado,60,55
+233,2023-05-05,Pereira,Canasta Saludable,7,21362.96,C9535,5,Entregado,68,61
+234,2023-05-18,Bogotá,Granola,3,6558.7,C2854,3,Entregado,30,27
+235,2023-01-20,Bogotá,Frutas Orgánicas,4,27702.55,C6774,2,Retrasado,95,91
+236,2023-04-26,Medellín,Frutas Orgánicas,9,21805.47,C4867,5,Entregado,34,25
+237,2023-05-11,Cali,Shampoo Sólido,8,13472.93,C2577,3,Entregado,61,53
+238,2023-01-23,Cartagena,Snacks Saludables,9,16921.44,C6546,5,Cancelado,21,12
+239,2023-03-15,Villavicencio,Jabón Natural,8,13614.14,C1475,5,Entregado,81,73
+240,2023-02-24,Bucaramanga,Shampoo Sólido,9,16879.11,C7063,6,Entregado,69,60
+241,2023-01-12,Bogotá,Snacks Saludables,2,14502.85,C7530,2,Retrasado,49,47
+242,2023-06-10,Cartagena,Granola,1,6001.51,C1612,4,Retrasado,13,12
+243,2023-04-20,Tunja,Crema Corporal,6,30706.22,C8183,7,Entregado,30,24
+244,2023-06-07,Cartagena,Jabón Natural,2,9978.65,C2125,7,Entregado,36,34
+245,2023-03-10,Tunja,Shampoo Sólido,9,7790.91,C4864,5,Entregado,14,5
+246,2023-01-09,Pereira,Shampoo Sólido,4,32546.24,C1645,4,Entregado,20,16
+247,2023-06-24,Medellín,Verduras Orgánicas,9,15733.95,C1587,2,Entregado,30,21
+248,2023-06-05,Cali,Granola,8,7615.38,C2715,6,Retrasado,91,83
+249,2023-02-27,Villavicencio,Verduras Orgánicas,9,18065.16,C7416,5,Entregado,24,15
+250,2023-04-01,Pereira,Frutas Orgánicas,3,5933.47,C7049,2,Entregado,37,34
+251,2023-02-16,Manizales,Snacks Saludables,7,10013.96,C6779,2,Retrasado,96,89
+252,2023-05-08,Cartagena,Frutas Orgánicas,3,25824.52,C7040,2,Entregado,30,27
+253,2023-02-26,Cartagena,Jabón Natural,5,17249.19,C9179,6,Retrasado,48,43
+254,2023-05-17,Bogotá,Snacks Saludables,3,6772.82,C8374,2,Cancelado,32,29
+255,2023-04-01,Bucaramanga,Frutas Orgánicas,2,18411.67,C3597,2,Entregado,71,69
+256,2023-02-04,Bucaramanga,Snacks Saludables,3,34304.01,C6626,3,Entregado,97,94
+257,2023-01-14,Manizales,Leche Vegetal,6,13401.12,C2967,4,Cancelado,12,6
+258,2023-06-19,Tunja,Verduras Orgánicas,3,29147.2,C6075,7,Entregado,82,79
+259,2023-05-04,Bucaramanga,Pan Vegano,7,20980.28,C3990,3,Entregado,62,55
+260,2023-03-02,Medellín,Leche Vegetal,4,7896.03,C1285,1,Entregado,61,57
+261,2023-03-30,Bucaramanga,Granola,5,13917.13,C1040,1,Cancelado,17,12
+262,2023-01-02,Cartagena,Granola,9,14912.24,C6717,6,Entregado,64,55
+263,2023-01-16,Barranquilla,Granola,1,13558.71,C6154,2,Retrasado,94,93
+264,2023-05-29,Cali,Leche Vegetal,5,12569.22,C8851,1,Entregado,70,65
+265,2023-05-17,Bucaramanga,Jabón Natural,4,31056.55,C5577,6,Entregado,54,50
+266,2023-03-28,Manizales,Leche Vegetal,8,14508.4,C7317,5,Entregado,35,27
+267,2023-02-21,Cali,Jabón Natural,6,23212.69,C8986,3,Retrasado,60,54
+268,2023-05-12,Manizales,Snacks Saludables,7,20370.91,C1771,2,Entregado,95,88
+269,2023-06-11,Manizales,Frutas Orgánicas,7,34515.21,C5005,1,Entregado,26,19
+270,2023-03-02,Manizales,Crema Corporal,6,6369.46,C8815,2,Entregado,66,60
+271,2023-04-03,Medellín,Granola,1,23675.59,C9333,4,Entregado,65,64
+272,2023-06-26,Bogotá,Frutas Orgánicas,6,30624.08,C5976,2,Entregado,99,93
+273,2023-02-08,Bogotá,Pan Vegano,5,18156.15,C1703,3,Entregado,18,13
+274,2023-03-29,Medellín,Canasta Saludable,5,13536.87,C1855,3,Retrasado,64,59
+275,2023-02-10,Villavicencio,Leche Vegetal,7,19806.4,C2517,7,Entregado,55,48
+276,2023-02-14,Villavicencio,Frutas Orgánicas,1,16696.17,C9210,3,Cancelado,21,20
+277,2023-06-10,Bogotá,Pan Vegano,7,33620.99,C5615,6,Entregado,39,32
+278,2023-06-24,Manizales,Granola,7,6216.76,C2875,4,Entregado,42,35
+279,2023-05-07,Bucaramanga,Verduras Orgánicas,4,16071.59,C2774,3,Retrasado,85,81
+280,2023-05-02,Villavicencio,Jabón Natural,3,15643.14,C6889,4,Entregado,75,72
+281,2023-02-20,Villavicencio,Crema Corporal,2,9166.14,C8544,2,Entregado,79,77
+282,2023-06-04,Medellín,Granola,5,32073.6,C1386,3,Entregado,90,85
+283,2023-06-18,Cartagena,Granola,3,18465.59,C8980,2,Cancelado,71,68
+284,2023-02-18,Bogotá,Pan Vegano,9,26875.2,C6624,1,Entregado,27,18
+285,2023-06-13,Bogotá,Leche Vegetal,3,7328.44,C3120,2,Retrasado,69,66
+286,2023-04-18,Villavicencio,Jabón Natural,2,16527.19,C3242,6,Cancelado,72,70
+287,2023-01-23,Cali,Shampoo Sólido,8,31689.56,C2141,4,Entregado,48,40
+288,2023-02-03,Pereira,Crema Corporal,8,9968.85,C1006,1,Retrasado,74,66
+289,2023-02-16,Cali,Frutas Orgánicas,4,15193.06,C4273,4,Entregado,52,48
+290,2023-05-06,Medellín,Pan Vegano,1,8037.8,C9767,4,Entregado,65,64
+291,2023-03-06,Cartagena,Granola,4,10020.79,C7980,2,Cancelado,76,72
+292,2023-03-16,Tunja,Verduras Orgánicas,4,7979.07,C8597,1,Entregado,60,56
+293,2023-02-19,Bucaramanga,Snacks Saludables,6,27686.41,C1910,3,Entregado,46,40
+294,2023-06-19,Pereira,Shampoo Sólido,5,19220.19,C7789,4,Retrasado,38,33
+295,2023-03-18,Pereira,Shampoo Sólido,4,5928.13,C4807,2,Entregado,46,42
+296,2023-02-18,Tunja,Frutas Orgánicas,2,10050.11,C5916,5,Entregado,51,49
+297,2023-04-08,Cali,Frutas Orgánicas,3,10315.13,C1340,2,Entregado,53,50
+298,2023-05-19,Manizales,Snacks Saludables,7,21344.83,C4456,3,Entregado,22,15
+299,2023-04-21,Cali,Frutas Orgánicas,2,19666.93,C7652,7,Retrasado,95,93
+300,2023-06-01,Villavicencio,Canasta Saludable,3,11039.36,C3567,1,Entregado,45,42
+301,2023-04-28,Bogotá,Jabón Natural,3,8971.17,C4162,6,Retrasado,54,51
+302,2023-02-16,Bucaramanga,Leche Vegetal,6,8919.57,C7538,3,Entregado,65,59
+303,2023-01-20,Manizales,Shampoo Sólido,9,31312.72,C1882,3,Cancelado,61,52
+304,2023-04-06,Medellín,Pan Vegano,6,22661.95,C8929,3,Entregado,71,65
+305,2023-05-31,Tunja,Jabón Natural,9,15868.04,C4536,6,Cancelado,91,82
+306,2023-04-02,Medellín,Crema Corporal,3,23063.51,C3819,5,Entregado,82,79
+307,2023-03-13,Bogotá,Leche Vegetal,4,5095.04,C3384,5,Retrasado,28,24
+308,2023-03-04,Cartagena,Jabón Natural,6,12681.43,C7980,3,Entregado,40,34
+309,2023-04-24,Medellín,Snacks Saludables,6,25631.66,C5778,6,Entregado,73,67
+310,2023-05-06,Cartagena,Shampoo Sólido,5,15761.47,C7337,2,Retrasado,39,34
+311,2023-02-26,Bucaramanga,Snacks Saludables,3,34934.63,C3841,5,Entregado,16,13
+312,2023-03-08,Pereira,Frutas Orgánicas,1,15253.47,C7144,1,Entregado,17,16
+313,2023-05-13,Tunja,Leche Vegetal,9,27983.48,C4747,4,Entregado,32,23
+314,2023-01-09,Cali,Granola,2,7329.48,C8427,3,Entregado,81,79
+315,2023-01-03,Tunja,Verduras Orgánicas,2,5182.66,C3130,3,Entregado,49,47
+316,2023-05-25,Medellín,Canasta Saludable,7,30262.23,C8547,4,Entregado,75,68
+317,2023-01-13,Bogotá,Granola,8,13858.71,C3555,6,Entregado,96,88
+318,2023-04-30,Bucaramanga,Canasta Saludable,7,32183.33,C3780,3,Retrasado,26,19
+319,2023-06-07,Cali,Crema Corporal,5,6010.08,C8570,2,Entregado,95,90
+320,2023-01-31,Villavicencio,Verduras Orgánicas,1,26593.74,C7687,3,Entregado,81,80
+321,2023-02-23,Medellín,Shampoo Sólido,4,24112.73,C7555,2,Entregado,88,84
+322,2023-01-22,Tunja,Pan Vegano,4,9286.28,C6590,4,Entregado,40,36
+323,2023-02-03,Medellín,Frutas Orgánicas,2,29713.34,C8016,4,Entregado,35,33
+324,2023-01-18,Barranquilla,Snacks Saludables,6,26209.29,C7056,2,Cancelado,73,67
+325,2023-06-06,Cartagena,Frutas Orgánicas,9,15807.02,C5232,5,Entregado,91,82
+326,2023-05-23,Bogotá,Granola,3,18014.52,C3224,2,Cancelado,60,57
+327,2023-06-14,Villavicencio,Crema Corporal,1,25610.58,C7361,3,Cancelado,98,97
+328,2023-04-30,Villavicencio,Frutas Orgánicas,7,5130.9,C4796,4,Entregado,42,35
+329,2023-01-24,Pereira,Pan Vegano,1,25283.25,C5888,2,Entregado,92,91
+330,2023-05-20,Medellín,Frutas Orgánicas,5,6445.58,C2124,3,Entregado,50,45
+331,2023-04-09,Villavicencio,Snacks Saludables,2,24032.72,C9418,2,Entregado,22,20
+332,2023-05-21,Medellín,Granola,4,30510.44,C5424,6,Retrasado,95,91
+333,2023-04-10,Bogotá,Snacks Saludables,7,23232.56,C9353,2,Cancelado,45,38
+334,2023-01-18,Pereira,Snacks Saludables,3,14468.82,C4220,4,Entregado,74,71
+335,2023-04-10,Bogotá,Pan Vegano,5,13622.29,C2548,1,Entregado,19,14
+336,2023-02-22,Cartagena,Canasta Saludable,5,25641.33,C4748,6,Retrasado,90,85
+337,2023-04-10,Barranquilla,Shampoo Sólido,3,19785.94,C3158,2,Cancelado,33,30
+338,2023-01-29,Medellín,Granola,9,33904.98,C4259,2,Retrasado,37,28
+339,2023-01-16,Medellín,Crema Corporal,1,20638.88,C3745,6,Entregado,51,50
+340,2023-06-24,Cartagena,Canasta Saludable,9,8606.22,C5063,2,Entregado,64,55
+341,2023-01-07,Bogotá,Canasta Saludable,4,24255.8,C7155,1,Entregado,86,82
+342,2023-05-15,Cali,Canasta Saludable,4,30411.82,C5552,3,Retrasado,96,92
+343,2023-02-14,Cartagena,Granola,6,9569.83,C9386,4,Cancelado,37,31
+344,2023-03-20,Bucaramanga,Frutas Orgánicas,7,25149.27,C9707,7,Cancelado,14,7
+345,2023-02-25,Tunja,Granola,4,21334.47,C7683,5,Entregado,99,95
+346,2023-04-16,Medellín,Snacks Saludables,9,23672.41,C8468,2,Cancelado,81,72
+347,2023-04-14,Villavicencio,Snacks Saludables,4,16644.97,C4483,4,Retrasado,56,52
+348,2023-02-21,Pereira,Pan Vegano,6,13715.14,C3606,1,Entregado,35,29
+349,2023-04-24,Bucaramanga,Crema Corporal,5,19919.37,C3295,1,Cancelado,36,31
+350,2023-01-15,Cartagena,Pan Vegano,5,33869.31,C8557,2,Retrasado,91,86
+351,2023-03-19,Bucaramanga,Leche Vegetal,3,9972.49,C2116,3,Retrasado,42,39
+352,2023-03-16,Manizales,Leche Vegetal,2,30613.55,C3743,4,Cancelado,85,83
+353,2023-05-19,Pereira,Jabón Natural,5,18109.88,C8186,2,Entregado,91,86
+354,2023-06-03,Manizales,Pan Vegano,6,10703.23,C1882,4,Entregado,26,20
+355,2023-04-17,Medellín,Frutas Orgánicas,5,33586.9,C1929,5,Entregado,17,12
+356,2023-04-06,Barranquilla,Canasta Saludable,4,12420.21,C7976,3,Retrasado,93,89
+357,2023-03-29,Tunja,Pan Vegano,2,28148.81,C9277,4,Retrasado,45,43
+358,2023-04-11,Bogotá,Shampoo Sólido,5,11662.28,C5967,5,Retrasado,31,26
+359,2023-04-11,Manizales,Leche Vegetal,9,17082.93,C4947,4,Entregado,18,9
+360,2023-06-04,Cartagena,Verduras Orgánicas,2,34797.65,C4743,3,Entregado,76,74
+361,2023-05-28,Cali,Verduras Orgánicas,5,5978.54,C8778,7,Entregado,87,82
+362,2023-01-17,Villavicencio,Shampoo Sólido,2,34773.27,C5956,3,Entregado,77,75
+363,2023-04-24,Villavicencio,Verduras Orgánicas,1,10747.79,C4699,1,Retrasado,50,49
+364,2023-04-15,Tunja,Leche Vegetal,5,6080.56,C6520,1,Entregado,50,45
+365,2023-03-09,Pereira,Crema Corporal,5,26574.8,C3871,3,Entregado,35,30
+366,2023-04-25,Villavicencio,Granola,3,9314.43,C8470,6,Retrasado,14,11
+367,2023-05-29,Tunja,Frutas Orgánicas,4,29694.82,C9275,3,Entregado,17,13
+368,2023-02-10,Villavicencio,Granola,3,22814.07,C5570,1,Cancelado,46,43
+369,2023-05-09,Cartagena,Leche Vegetal,3,7851.59,C4607,2,Retrasado,43,40
+370,2023-06-26,Pereira,Leche Vegetal,7,6362.1,C7771,3,Entregado,62,55
+371,2023-03-03,Manizales,Canasta Saludable,9,5000.35,C4832,1,Entregado,66,57
+372,2023-05-18,Cartagena,Shampoo Sólido,8,11783.76,C4156,2,Entregado,60,52
+373,2023-03-27,Manizales,Canasta Saludable,4,34005.36,C4109,4,Entregado,50,46
+374,2023-05-21,Cali,Granola,7,23288.93,C3749,5,Entregado,60,53
+375,2023-05-06,Bogotá,Frutas Orgánicas,6,17172.54,C6141,2,Entregado,25,19
+376,2023-02-28,Barranquilla,Snacks Saludables,7,21334.91,C4273,1,Entregado,18,11
+377,2023-05-19,Bucaramanga,Granola,6,12959.78,C6679,2,Retrasado,30,24
+378,2023-04-11,Barranquilla,Leche Vegetal,6,28421.96,C6310,3,Entregado,97,91
+379,2023-04-14,Bucaramanga,Snacks Saludables,7,18851.48,C4072,1,Entregado,66,59
+380,2023-03-22,Medellín,Pan Vegano,2,29212.13,C3524,1,Entregado,93,91
+381,2023-02-21,Pereira,Pan Vegano,5,30696.12,C8742,5,Entregado,64,59
+382,2023-03-06,Manizales,Shampoo Sólido,1,16415.53,C4171,5,Retrasado,27,26
+383,2023-04-23,Pereira,Frutas Orgánicas,3,28465.14,C4490,1,Retrasado,23,20
+384,2023-06-11,Cartagena,Shampoo Sólido,7,12049.2,C3972,5,Entregado,58,51
+385,2023-06-17,Pereira,Leche Vegetal,3,17887.88,C2476,4,Retrasado,22,19
+386,2023-03-05,Villavicencio,Verduras Orgánicas,3,33574.01,C4663,1,Retrasado,29,26
+387,2023-04-05,Medellín,Canasta Saludable,4,23750.88,C4093,4,Retrasado,16,12
+388,2023-04-29,Tunja,Frutas Orgánicas,3,30520.41,C5690,4,Entregado,81,78
+389,2023-05-04,Manizales,Jabón Natural,1,21465.76,C4197,2,Entregado,21,20
+390,2023-05-25,Cartagena,Snacks Saludables,6,15021.5,C7043,3,Entregado,68,62
+391,2023-02-02,Bucaramanga,Jabón Natural,2,17983.01,C1018,4,Entregado,56,54
+392,2023-06-16,Pereira,Granola,4,34461.49,C4765,4,Entregado,96,92
+393,2023-05-27,Pereira,Leche Vegetal,6,23033.08,C7547,2,Entregado,83,77
+394,2023-04-15,Bogotá,Snacks Saludables,9,5344.42,C6693,3,Entregado,15,6
+395,2023-02-27,Cartagena,Frutas Orgánicas,5,34368.73,C2988,2,Entregado,58,53
+396,2023-06-26,Tunja,Leche Vegetal,7,12928.29,C7241,3,Entregado,33,26
+397,2023-03-15,Pereira,Leche Vegetal,6,34056.12,C2518,7,Entregado,63,57
+398,2023-05-28,Villavicencio,Jabón Natural,3,23709.46,C3849,4,Entregado,36,33
+399,2023-01-10,Tunja,Pan Vegano,9,26198.9,C5195,2,Entregado,77,68
+400,2023-03-06,Manizales,Snacks Saludables,3,8177.17,C7409,4,Entregado,60,57
+401,2023-02-17,Manizales,Jabón Natural,5,11078.98,C2813,4,Entregado,37,32
+402,2023-04-23,Cali,Leche Vegetal,4,33088.01,C8304,3,Cancelado,45,41
+403,2023-03-14,Tunja,Frutas Orgánicas,6,34310.21,C5937,1,Entregado,44,38
+404,2023-03-26,Bucaramanga,Snacks Saludables,9,18020.63,C4676,3,Entregado,28,19
+405,2023-04-02,Medellín,Granola,1,21406.28,C5017,4,Entregado,32,31
+406,2023-04-21,Cartagena,Shampoo Sólido,4,5412.37,C6694,2,Entregado,52,48
+407,2023-06-25,Cartagena,Shampoo Sólido,2,6875.79,C9252,3,Entregado,42,40
+408,2023-03-16,Pereira,Verduras Orgánicas,2,16166.01,C2526,5,Retrasado,28,26
+409,2023-06-13,Tunja,Frutas Orgánicas,8,11008.46,C2993,3,Entregado,17,9
+410,2023-06-28,Cali,Shampoo Sólido,1,32623.0,C8786,3,Entregado,37,36
+411,2023-04-07,Villavicencio,Shampoo Sólido,6,30794.72,C2873,5,Entregado,70,64
+412,2023-02-27,Pereira,Leche Vegetal,6,17828.04,C6738,6,Entregado,72,66
+413,2023-05-30,Bucaramanga,Granola,9,11032.96,C9326,1,Entregado,77,68
+414,2023-05-09,Cartagena,Frutas Orgánicas,7,26388.8,C9312,2,Entregado,38,31
+415,2023-05-13,Bogotá,Crema Corporal,1,10569.4,C3068,4,Retrasado,56,55
+416,2023-03-25,Pereira,Frutas Orgánicas,3,8312.96,C1195,6,Entregado,32,29
+417,2023-06-02,Tunja,Jabón Natural,5,27275.92,C4927,5,Entregado,41,36
+418,2023-02-24,Bucaramanga,Verduras Orgánicas,5,14802.28,C7121,2,Entregado,89,84
+419,2023-04-07,Medellín,Granola,1,8077.04,C1136,1,Retrasado,48,47
+420,2023-05-30,Pereira,Crema Corporal,9,30764.5,C1086,5,Retrasado,76,67
+421,2023-06-07,Medellín,Leche Vegetal,9,5397.53,C2700,3,Retrasado,32,23
+422,2023-02-14,Pereira,Verduras Orgánicas,1,27218.78,C1596,4,Retrasado,27,26
+423,2023-04-04,Medellín,Pan Vegano,6,21241.09,C9912,3,Retrasado,87,81
+424,2023-05-02,Tunja,Leche Vegetal,3,11670.84,C8178,2,Entregado,28,25
+425,2023-04-28,Barranquilla,Leche Vegetal,8,23489.01,C6628,3,Retrasado,28,20
+426,2023-03-15,Bucaramanga,Leche Vegetal,8,26064.38,C9640,2,Entregado,22,14
+427,2023-05-09,Pereira,Canasta Saludable,2,5664.24,C1238,1,Entregado,73,71
+428,2023-03-02,Bogotá,Shampoo Sólido,7,9285.26,C7160,2,Entregado,58,51
+429,2023-01-07,Barranquilla,Canasta Saludable,1,33543.26,C1192,1,Retrasado,34,33
+430,2023-05-11,Bogotá,Crema Corporal,5,11657.01,C4893,4,Entregado,74,69
+431,2023-04-03,Pereira,Jabón Natural,9,31225.12,C7773,5,Entregado,92,83
+432,2023-05-27,Bucaramanga,Shampoo Sólido,2,17137.06,C5994,1,Entregado,66,64
+433,2023-05-26,Pereira,Frutas Orgánicas,3,13426.46,C9385,1,Retrasado,85,82
+434,2023-04-14,Medellín,Frutas Orgánicas,4,30437.84,C5780,3,Entregado,88,84
+435,2023-01-20,Medellín,Canasta Saludable,3,11603.34,C9397,2,Entregado,71,68
+436,2023-05-12,Bucaramanga,Canasta Saludable,4,6359.58,C7239,1,Entregado,71,67
+437,2023-02-18,Cali,Shampoo Sólido,9,5159.4,C8291,1,Entregado,57,48
+438,2023-06-02,Bucaramanga,Leche Vegetal,4,27995.45,C1249,3,Entregado,71,67
+439,2023-02-08,Medellín,Crema Corporal,4,9209.74,C6330,4,Retrasado,80,76
+440,2023-04-02,Bogotá,Jabón Natural,9,15408.88,C2925,4,Cancelado,96,87
+441,2023-05-11,Bogotá,Crema Corporal,5,24623.98,C9995,6,Entregado,71,66
+442,2023-06-19,Manizales,Crema Corporal,6,16586.36,C1615,2,Entregado,68,62
+443,2023-05-10,Villavicencio,Granola,1,22540.04,C7539,3,Entregado,71,70
+444,2023-04-23,Cali,Jabón Natural,6,20997.54,C5290,6,Entregado,10,4
+445,2023-06-22,Villavicencio,Canasta Saludable,5,25839.23,C1922,3,Entregado,62,57
+446,2023-05-12,Pereira,Jabón Natural,7,34499.17,C4940,4,Entregado,17,10
+447,2023-01-01,Tunja,Jabón Natural,5,12787.29,C2093,3,Retrasado,88,83
+448,2023-01-05,Tunja,Verduras Orgánicas,8,30743.61,C4759,2,Retrasado,68,60
+449,2023-06-06,Pereira,Crema Corporal,7,34884.73,C7033,5,Entregado,63,56
+450,2023-05-05,Pereira,Granola,6,7847.54,C9490,6,Retrasado,70,64
+451,2023-04-19,Barranquilla,Frutas Orgánicas,3,22134.87,C7396,2,Cancelado,84,81
+452,2023-05-29,Medellín,Frutas Orgánicas,3,17180.35,C7644,2,Entregado,87,84
+453,2023-06-01,Bucaramanga,Leche Vegetal,2,26184.76,C7047,1,Entregado,67,65
+454,2023-04-09,Medellín,Crema Corporal,3,23738.42,C1067,7,Retrasado,52,49
+455,2023-03-15,Medellín,Granola,9,11866.26,C3258,6,Entregado,64,55
+456,2023-01-28,Medellín,Jabón Natural,5,23992.18,C5996,7,Cancelado,13,8
+457,2023-04-23,Bucaramanga,Crema Corporal,4,33197.95,C5383,3,Entregado,64,60
+458,2023-04-30,Medellín,Verduras Orgánicas,7,32751.42,C4716,1,Entregado,98,91
+459,2023-05-30,Barranquilla,Snacks Saludables,3,27433.83,C7982,3,Entregado,85,82
+460,2023-05-30,Pereira,Jabón Natural,6,22391.78,C5749,1,Entregado,42,36
+461,2023-04-29,Barranquilla,Canasta Saludable,8,29084.33,C8389,6,Entregado,99,91
+462,2023-04-04,Tunja,Crema Corporal,2,22178.22,C3789,4,Entregado,84,82
+463,2023-04-18,Cartagena,Frutas Orgánicas,8,22822.48,C8175,1,Entregado,90,82
+464,2023-05-08,Barranquilla,Leche Vegetal,4,31429.19,C6866,2,Retrasado,65,61
+465,2023-06-25,Villavicencio,Leche Vegetal,5,29002.2,C4327,5,Cancelado,93,88
+466,2023-02-06,Cartagena,Jabón Natural,1,23678.92,C7774,4,Cancelado,29,28
+467,2023-05-04,Cartagena,Leche Vegetal,7,18061.81,C4856,6,Cancelado,28,21
+468,2023-01-11,Cali,Frutas Orgánicas,2,7131.05,C3411,2,Entregado,59,57
+469,2023-04-12,Tunja,Granola,8,8029.34,C7628,3,Cancelado,49,41
+470,2023-03-13,Medellín,Verduras Orgánicas,8,5261.18,C2942,5,Entregado,17,9
+471,2023-04-03,Medellín,Shampoo Sólido,8,8890.37,C5134,2,Entregado,22,14
+472,2023-02-05,Tunja,Snacks Saludables,5,10103.46,C6457,2,Retrasado,96,91
+473,2023-01-22,Bogotá,Leche Vegetal,2,29879.43,C3011,4,Entregado,73,71
+474,2023-01-10,Pereira,Shampoo Sólido,8,14108.72,C8522,1,Entregado,96,88
+475,2023-05-25,Pereira,Snacks Saludables,1,18787.52,C8657,5,Entregado,65,64
+476,2023-01-09,Villavicencio,Snacks Saludables,6,26750.18,C1687,3,Cancelado,26,20
+477,2023-05-23,Bucaramanga,Verduras Orgánicas,7,30203.24,C4103,6,Entregado,94,87
+478,2023-03-23,Medellín,Verduras Orgánicas,9,19777.07,C4109,5,Entregado,57,48
+479,2023-01-18,Bucaramanga,Granola,7,25955.92,C1186,5,Entregado,22,15
+480,2023-04-19,Cali,Granola,1,29535.69,C6509,3,Entregado,99,98
+481,2023-01-14,Medellín,Frutas Orgánicas,6,11894.8,C2574,6,Retrasado,68,62
+482,2023-06-15,Bogotá,Leche Vegetal,8,10558.11,C6570,2,Entregado,89,81
+483,2023-05-30,Medellín,Canasta Saludable,6,34097.8,C9263,2,Retrasado,41,35
+484,2023-04-09,Bogotá,Canasta Saludable,3,31819.56,C8243,3,Retrasado,78,75
+485,2023-02-21,Barranquilla,Granola,9,5757.12,C5820,6,Entregado,31,22
+486,2023-05-12,Bucaramanga,Frutas Orgánicas,2,6605.43,C3547,5,Entregado,10,8
+487,2023-05-23,Manizales,Pan Vegano,1,13818.47,C6447,6,Entregado,55,54
+488,2023-03-13,Tunja,Shampoo Sólido,8,32735.67,C2134,6,Entregado,37,29
+489,2023-01-16,Cali,Granola,7,19617.96,C1721,3,Retrasado,22,15
+490,2023-04-06,Medellín,Granola,2,16935.97,C2117,3,Entregado,30,28
+491,2023-04-22,Pereira,Jabón Natural,7,24398.01,C7771,4,Entregado,62,55
+492,2023-05-08,Cartagena,Jabón Natural,4,13354.12,C2848,3,Retrasado,10,6
+493,2023-02-13,Manizales,Shampoo Sólido,3,27612.02,C4791,2,Entregado,87,84
+494,2023-05-16,Tunja,Jabón Natural,8,32671.02,C4303,2,Entregado,52,44
+495,2023-04-05,Bogotá,Canasta Saludable,1,11323.44,C9924,6,Retrasado,65,64
+496,2023-05-14,Medellín,Crema Corporal,6,6984.96,C9100,4,Entregado,81,75
+497,2023-06-26,Bogotá,Jabón Natural,3,17557.47,C7999,1,Cancelado,72,69
+498,2023-04-14,Tunja,Snacks Saludables,3,24112.84,C9464,4,Entregado,37,34
+499,2023-02-07,Medellín,Snacks Saludables,7,22988.83,C8411,4,Entregado,52,45
+500,2023-06-13,Barranquilla,Canasta Saludable,4,25343.41,C4176,2,Entregado,92,88
