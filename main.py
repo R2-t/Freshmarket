@@ -1,6 +1,7 @@
 import sys
 
 from analysis import orchestrate_analysis
+from database import orchestrate_database_migration
 
 if __name__ == "__main__":
     args = set(sys.argv)
@@ -12,7 +13,7 @@ if __name__ == "__main__":
     if "analysis" in args:
         orchestrate_analysis()
     elif "database" in args:
-        pass
+        orchestrate_database_migration()
     elif "ui" in args:
         pass
     else:
